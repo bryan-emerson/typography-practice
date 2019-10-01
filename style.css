@@ -33,6 +33,19 @@ ul {
     list-style-type: square;
 }
 
+.three {
+    text-align: center;
+    font-style: italic;
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #FDA203;
+    font-size: 30px;
+}
+
 img {
     height: 250px;
     display: block;
