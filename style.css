@@ -1,5 +1,39 @@
 /* Add your CSS here! */
 
+body {
+    background: #052A63;
+    color: #E5FDC5;
+    font-family: "Trebuchet", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 45px;
+}
+
+p {
+    line-height: 25px;
+}
+
+.one {
+    color: #05D5FE;
+}
+
+.two {
+    color: #FDA203;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: square;
+}
+
 img {
     height: 250px;
+    display: block;
+    margin: 0 auto;
 }
