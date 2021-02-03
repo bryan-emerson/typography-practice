@@ -1,5 +1,29 @@
 /* Add your CSS here! */
 
 img {
-    height: 250px;
+    /* height: 250px; */
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: #394FF0;
+}
+
+.pone {
+    color: blue;
+}
+
+.ptwo {
+    color: orange;
+}
+
+h3 {
+    color: lightgreen;
+}
+
+ul {
+    color: lightgreen;
 }
